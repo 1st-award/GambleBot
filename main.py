@@ -135,4 +135,4 @@ logging.basicConfig(level=logging.CRITICAL)
 # 봇 토큰 유출 방지를 위해 Heroku에 토큰 저장
 #access_token = os.environ["BOT_TOKEN"]
 #bot.run(access_token)
-bot.run('NDU1OTU3MzI0NjI0OTUzMzU0.Wx9RWQ.15C27M1UMLhh9wlpaBijMVCoGag')
+bot.run('')
